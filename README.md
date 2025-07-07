@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajkumar Dattu Kadam (a.k.a. Cypher)
 
-<!--
-**raj-kadam89/raj-kadam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently learning **JavaScript** and **React Native**  
+📱 Passionate about creating real-world mobile apps  
+🧠 Self-taught developer focused on logic and clean code  
+🌱 Currently building my first mobile apps  
+📘 Documenting my journey here on GitHub
 
-Here are some ideas to get you started:
+### 🔧 Skills I'm Building:
+- JavaScript (ES6+)
+- React Native
+- Git & GitHub
+- Mobile App UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect With Me:
+- [LinkedIn](https://linkedin.com/in/rajkumardattukadam)
