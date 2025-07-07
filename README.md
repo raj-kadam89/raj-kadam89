@@ -12,5 +12,5 @@
 - Git & GitHub
 - Mobile App UI/UX
 
-### 🔗 Connect With Me:
+### 🔗 Connect With Me: 
 - [LinkedIn](https://linkedin.com/in/rajkumardattukadam)
